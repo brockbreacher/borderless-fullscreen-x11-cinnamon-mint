@@ -21,6 +21,6 @@ if [ -e "/usr/share/applications/borderless-fullscreen-wayland.desktop" ]; then
 fi
 
 cd ..
-rm -rf borderless-fullscreen
+rm -rf borderless-fullscreen-x11-cinnamon-mint
 
 echo "Uninstalled Successfully!"
