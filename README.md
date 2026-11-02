@@ -73,12 +73,12 @@ apk add --upgrade xdotool zenity
 * Clone the repository or download the script to your local machine.
 
 ```sh
-git clone https://github.com/FreddyBLtv/borderless-fullscreen.git
+git clone https://github.com/brockbreacher/borderless-fullscreen-x11-cinnamon-mint.git
 ```
 * Navigate into the cloned repository.
 
 ```sh
-cd borderless-fullscreen
+cd borderless-fullscreen-x11-cinnamon-mint
 ```
 * Make the installation script executable.
 
