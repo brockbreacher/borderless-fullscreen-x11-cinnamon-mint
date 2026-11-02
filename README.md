@@ -1,3 +1,5 @@
+THIS IS A FORK FOR LINUX MINT CINNAMON X11, THIS IS FOR A NICHE USE CASE AND MAY NOT WORK FOR ALL
+
 
 <h1 align="center">Borderless Fullscreen</h1>
 <div align="center">
